@@ -1,5 +1,5 @@
-:HL["/ai-nc-cam/_next/static/chunks/13w9lrn0izla_.css","style"]
+:HL["/ai-nc-cam/_next/static/chunks/0kr2wj7n5u3p_.css","style"]
 3:[["children",{"s":"__PAGE__","h":160}]]
 2:[["children",{"s":"view","h":96,"c":"$Q3"}]]
 1:[["children",{"s":"drawing","h":96,"c":"$Q2"}]]
-0:{"b":"CFS0MR-Zg1WRWLRaHUUyy","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"JwIlnylRCJfVZ84_M1JVr","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
