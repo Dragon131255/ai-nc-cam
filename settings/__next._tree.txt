@@ -1,4 +1,4 @@
 :HL["/ai-nc-cam/_next/static/chunks/05ryo8iwji-sl.css","style"]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"settings","h":96,"c":"$Q2"}]]
-0:{"b":"Ke8nmLDEI0TdySzPOiBmG","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"sIqKYNUa2ENMYAryWsmCS","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
